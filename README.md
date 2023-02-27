@@ -6,7 +6,6 @@ Repositório com exercícios da disciplina de FAC, ministrada pelo Professor Tia
 
 - A - [Ola Mundo](https://moj.naquadah.com.br/contests/ta_fac_ta_t1_2022_2/olamundo.html)
 - B - [Soma de Dois Numeros](https://moj.naquadah.com.br/contests/ta_fac_ta_t1_2022_2/soma2.html)
-
 - [Soluções]
 
 ## Trabalho 2
