@@ -6,7 +6,8 @@ Repositório com exercícios em Assembly MIPS da disciplina de FAC, ministrada p
 
 - A - [Ola Mundo](https://moj.naquadah.com.br/contests/ta_fac_ta_t1_2022_2/olamundo.html)
 - B - [Soma de Dois Numeros](https://moj.naquadah.com.br/contests/ta_fac_ta_t1_2022_2/soma2.html)
-- [Soluções]
+- 
+- [Soluções](https://github.com/rabelzx/FAC-FGA-2022-2/tree/main/Solu%C3%A7%C3%B5es/Trabalho%201)
 
 ## Trabalho 2
 
