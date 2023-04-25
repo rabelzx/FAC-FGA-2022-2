@@ -1,6 +1,6 @@
 # Fundamentos de Arquitetura de Computadores - FGA - 2022/2
 
-Repositório com exercícios em Assembly MIPS da disciplina de FAC, ministrada pelo Professor Tiago Alves da Fonseca.
+Repositório com exercícios em Assembly MIPS da disciplina de FAC.
 
 ## Trabalho 1
 
