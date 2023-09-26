@@ -1,6 +1,6 @@
 # Fundamentos de Arquitetura de Computadores - FGA - 2022/2
 
-Repositório com exercícios em Assembly MIPS da disciplina de FAC.
+Repositório com exercícios em Assembly MIPS da disciplina de FAC. <br>
 Obs: Se atente a extensão dos arquivos. Atualmente estão em formato padrão ".asm", porém, você pode renomealos para ".spim".
 
 ## Trabalho 1
